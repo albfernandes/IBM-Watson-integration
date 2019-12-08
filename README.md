@@ -2,7 +2,7 @@
 
 ## This is a fully implemented integration between IBM watson and huggy platform.
 
-## There is some implemented features here:
+## Here are some implemented features:
 - Integrated with slack
 - Integrated with Sentry
 - Integrated with GAS (Google App Script)
